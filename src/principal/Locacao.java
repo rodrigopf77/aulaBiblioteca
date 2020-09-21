@@ -48,13 +48,3 @@ public class Locacao {
     }
 
 }
-
-
-/*
-        DateFormat é uma classe abstrata e a SimpleDate uma classe especialista
-        Usamos a classe especialista  SimpleDateFormat para definir o formato que iremos trabalhar com
-        datas.
-        dd = dia
-        MM = mês
-        yyyy = ano
-    */
