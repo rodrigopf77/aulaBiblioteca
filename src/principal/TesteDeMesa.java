@@ -23,7 +23,7 @@ public class TesteDeMesa {
                 salario += gols * 2000;
                 salario -= cartao * 50;
             }else{
-                salario += (gols * 3000) + bonus;
+                salario -= (gols * 3000) + bonus;
             }
         }
 
